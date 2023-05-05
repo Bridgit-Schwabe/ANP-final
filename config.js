@@ -18,7 +18,7 @@ var config = {
     title: 'The Lost Expedition of Franklin',
     subtitle: 'Lost in The North',
     byline: 'By Bridgit Schwabe',
-    footer: 'Info sources from <a href="https://www.coolantarctica.com/Antarctica%20fact%20file/History/antarctic_ships/Franklin-north-west-passage-map.php" target="_blank">Here</a> and the Victory Point Note. Map is coded in... Does not want to work for me.',
+    footer: 'Info sources from <a href="https://www.coolantarctica.com/Antarctica%20fact%20file/History/antarctic_ships/erebus_terror_Franklin.php" target="_blank">Here</a> and the Victory Point Note. Map is coded in... Does not want to work for me.',
     chapters: [
         {
             id: 'Kent',
@@ -119,7 +119,7 @@ var config = {
             hidden: false,
             title: 'Aftermath',
             image: 'https://www.coolantarctica.com/Antarctica%20fact%20file/History/antarctic_ships/franklin-map.jpg',
-            description: 'Those who joined the Franklin expedition were met with intense winters that they could not handle and in turn lost their lives. After various failed rescue attempts, the HMS Erebus would not be found until 2014 and the HMS Terror in 2016. The UK after this discovery gave Canada and the Inuit people the rights to the two ships and any artifacts on them.',
+            description: 'Those who joined the Franklin expedition were met with intense winters that they could not handle and in turn lost their lives. After various failed rescue attempts (The one in 1850 being urged by the wife of Franklin), the HMS Erebus would not be found until 2014 and the HMS Terror in 2016. The UK after this discovery gave Canada and the Inuit people the rights to the two ships and any artifacts on them.',
             location: {
                 center: [-97.90532, 69.88665],
                 zoom: 6.10,
