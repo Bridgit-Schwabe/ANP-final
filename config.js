@@ -18,7 +18,7 @@ var config = {
     title: 'The Lost Expedition of Franklin',
     subtitle: 'Lost in The North',
     byline: 'By Bridgit Schwabe',
-    footer: 'Info sources from <a href="https://www.coolantarctica.com/Antarctica%20fact%20file/History/antarctic_ships/Franklin-north-west-passage-map.php" target="_blank">Here</a> and the Victory Point Note. ',
+    footer: 'Info sources from <a href="https://www.coolantarctica.com/Antarctica%20fact%20file/History/antarctic_ships/Franklin-north-west-passage-map.php" target="_blank">Here</a> and the Victory Point Note. Map is coded in... Does not want to work for me.',
     chapters: [
         {
             id: 'Kent',
